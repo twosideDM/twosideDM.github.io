@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://twosideDM/twosideDM.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://twosideDM/twosideDM.github.io/sitemap.xml
