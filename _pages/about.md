@@ -22,69 +22,6 @@ Two-sided marketplaces have emerged as viable business models in many real-world
 This tutorial aims to impart a deep understanding of decision intelligence in two-sided marketplaces, with a particular emphasis on reinforcement learning and sequential decision-making for long-term optimization. Attendees will explore the design and management of such marketplaces, with case studies in ridesharing, and learn to tackle their unique challenges. They will gain practical skills in supply-demand forecasting, dynamic pricing, online matching, growth strategies and A/B testing, applicable to real-world situations. By the end of the tutorial, they should be proficient in applying these techniques and evaluating these systems, a valuable asset for AAAI community members interested in marketplace dynamics and decision intelligence.
 
 
-<style>
-  .schedule-container {
-      max-width: 800px;
-      margin: auto;
-      display: flex;
-      justify-content: center;
-  }
-
-  .schedule-header {
-      font-weight: bold;
-      font-size: 18px;
-      margin-bottom: 10px;
-      text-align: center; /* Centers any header text */
-  }
-
-  .schedule-table {
-      width: 80%; /* Adjust width as needed */
-      border-collapse: collapse;
-      margin-top: 15px;
-      text-align: center; /* Centers text inside the table */
-  }
-
-  .schedule-table th {
-      text-align: center;
-      padding: 10px;
-      font-weight: bold;
-  }
-
-  .schedule-table td {
-      padding: 12px;
-      border-top: 1px solid #ddd;
-  }
-
-  .schedule-row {
-      background-color: #f5f5f5;
-  }
-
-  .bold-text {
-      font-weight: bold;
-  }
-</style>
-
-## Agenda
-<div class="schedule-container">
-    <table class="schedule-table">
-        <tr class="schedule-row">
-            <td>Foundations of Two-Sided Marketplaces</td>
-        </tr>
-        <tr>
-            <td>Optimizing Policies for Strategic Decision-Making</td>
-        </tr>
-        <tr class="schedule-row">
-            <td>A/B Testing: Policy Evaluation and Experimental Design</td>
-        </tr>
-        <tr>
-            <td>Leveraging LLMs and Digital Twins for Marketplaces</td>
-        </tr>
-    </table>
-</div>
-
-
-
-
 
 ## Tutorial Organizers
 
@@ -156,6 +93,6 @@ This tutorial aims to impart a deep understanding of decision intelligence in tw
   />
 
 <p>
-    <strong>Hongtu Zhu</strong> is a tenured professor of biostatistics, statistics, computer science, and genetics at University of North Carolina at Chapel Hill. He was DiDi Fellow and Chief Scientist of Statistics at DiDi Chuxing between 2018 and 2020 and was Endowed Bao-Shan Jing Professorship in Diagnostic Imaging at MD Anderson Cancer Center between 2016 and 2018.  He is an internationally recognized expert in statistical learning, medical image analysis, precision medicine, biostatistics, artificial intelligence, and big data analytics. He has been an elected Fellow of American Statistical Association and Institute of Mathematical Statistics since 2011. He received an established investigator award from Cancer Prevention Research Institute of Texas in 2016 and received the INFORMS Daniel H. Wagner Prize for Excellence in Operations Research Practice in 2019. He has published more than 340+ papers in top journals including Nature, Science, Cell, Nature Genetics, JMLR, PNAS, AOS, JASA, and JRSSB, as well as 54+ conference papers in top conferences including NeurIPS, ICML, AAAI, KDD, ICDM, MICCAI, and IPMI.  He is the elected Editor in Chief of Journal of American Statistical Association, Application and Case Study and Coordinating editor. 
+    <strong>Hongtu Zhu</strong> is a tenured professor of biostatistics, statistics, computer science, and genetics at University of North Carolina at Chapel Hill. He was DiDi Fellow and Chief Scientist of Statistics at DiDi Chuxing between 2018 and 2020 and was Endowed Bao-Shan Jing Professorship in Diagnostic Imaging at MD Anderson Cancer Center between 2016 and 2018.  He is an internationally recognized expert in statistical learning, medical image analysis, precision medicine, biostatistics, artificial intelligence, and big data analytics. He has been a Fellow of American Statistical Association and Institute of Mathematical Statistics since 2011 Fellow of Institute of Electrical and Electronic Engineers since 2024. He received an established investigator award from Cancer Prevention Research Institute of Texas in 2016 and received the INFORMS Daniel H. Wagner Prize for Excellence in Operations Research Practice in 2019. He has published more than 340+ papers in top journals including Nature, Science, Cell, Nature Genetics, JMLR, PNAS, AOS, JASA, and JRSSB, as well as 54+ conference papers in top conferences including NeurIPS, ICML, AAAI, KDD, ICDM, MICCAI, and IPMI.  He is the Editor in Chief of Journal of American Statistical Association, Application and Case Study and Coordinating editor. 
   </p>
 </div>
