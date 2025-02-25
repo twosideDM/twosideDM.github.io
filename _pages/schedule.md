@@ -43,7 +43,7 @@ nav_order: 2
 
 <div class="schedule-container">
     <p class="schedule-header">
-        <b>Wednesday 26th December 2025</b>
+        <b>Wednesday 26th February 2025</b>
     </p>
     <table class="schedule-table">
         <tr>
@@ -73,4 +73,3 @@ nav_order: 2
         </tr>
     </table>
 </div>
-
