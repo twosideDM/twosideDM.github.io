@@ -22,7 +22,7 @@ Two-sided marketplaces have emerged as viable business models in many real-world
 This tutorial aims to impart a deep understanding of decision intelligence in two-sided marketplaces, with a particular emphasis on reinforcement learning and sequential decision-making for long-term optimization. Attendees will explore the design and management of such marketplaces, with case studies in ridesharing, and learn to tackle their unique challenges. They will gain practical skills in supply-demand forecasting, dynamic pricing, online matching, growth strategies and A/B testing, applicable to real-world situations. By the end of the tutorial, they should be proficient in applying these techniques and evaluating these systems, a valuable asset for AAAI community members interested in marketplace dynamics and decision intelligence.
 
 ## Resources
-[📄 Click here to view the lecture slides! 🎉](assets/files/Tutorial.pdf)
+[📄 Click here to view the lecture slides! 🎉](assets/pdf/Tutorial.pdf)
 
 📢 The recordings will be available soon! 🎥 Stay tuned! 
 
