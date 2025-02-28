@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Homepage
 permalink: /
 subtitle: <a href='https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#TH22'>AAAI 2025 tutorial 22</a>
 
@@ -24,7 +24,96 @@ This tutorial aims to impart a deep understanding of decision intelligence in tw
 ## Resources
 [📄 Click here to view the lecture slides! 🎉](assets/pdf/Tutorial.pdf)
 
-📢 The recordings will be available soon! 🎥 Stay tuned! 
+📢 The recordings are ready in Youtube and Blibli! 
+
+## Schedule and Recordings
+
+<style>
+  .schedule-container {
+      max-width: 800px;
+      margin: auto;
+      font-family: Arial, sans-serif;
+  }
+  h2 {
+      font-size: 32px;
+  }
+  .schedule-header {
+      font-weight: bold;
+      font-size: 18px;
+      margin-bottom: 10px;
+  }
+  .schedule-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+  }
+  .schedule-table th {
+      text-align: left;
+      padding: 10px;
+      font-weight: bold;
+  }
+  .schedule-table td {
+      padding: 12px;
+      border-top: 1px solid #ddd;
+  }
+  .schedule-row {
+      background-color: #f5f5f5;
+  }
+  .bold-text {
+      font-weight: bold;
+  }
+</style>
+
+
+
+<div class="schedule-container">
+    <table class="schedule-table">
+        <tr>
+            <th>Topic</th>
+            <th>Duration</th>
+            <th>Speaker</th>
+            <th>Recordings</th> <!-- New Column -->
+        </tr>
+        <tr class="schedule-row">
+            <td>Foundations of Two-Sided Marketplaces</td>
+            <td>35 min</td>
+            <td class="bold-text">Hongtu Zhu</td>
+            <td>
+                <a href="https://www.youtube.com/watch?v=BZ3zE2XhfLI&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV" target="_blank">YouTube</a>
+                <a href="https://www.bilibili.com/video/BV1v99NYSEsK/?spm_id_from=333.1387.upload.video_card.click&vd_source=64062e53bf71dbe0f1aa550dae4ddf79" target="_blank">Bilibili</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Optimizing Policies for Strategic Decision-Making</td>
+            <td>75 min</td>
+            <td class="bold-text">Tony Qin</td>
+            <td>
+                <a href="https://www.youtube.com/watch?v=-rS_p1o2zdE&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV&index=4" target="_blank">YouTube</a>
+                <a href="https://www.bilibili.com/video/BV1qD9NYQEud/?spm_id_from=333.1387.upload.video_card.click&vd_source=64062e53bf71dbe0f1aa550dae4ddf79" target="_blank">Bilibili</a>
+            </td>
+        </tr>
+        <tr class="schedule-row">
+            <td>A/B Testing: Policy Evaluation and Experimental Design</td>
+            <td>75 min</td>
+            <td class="bold-text">Chengchun Shi</td>
+            <td>
+                <a href="https://www.youtube.com/watch?v=LwShOYaRFqM&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV&index=2" target="_blank">YouTube</a>
+                <a href="https://www.bilibili.com/video/BV1ZS9NYpEHg/?spm_id_from=333.1387.upload.video_card.click&vd_source=64062e53bf71dbe0f1aa550dae4ddf79" target="_blank">Bilibili</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Leveraging LLMs and Digital Twins for Marketplaces</td>
+            <td>20 min</td>
+            <td class="bold-text">Tony Qin</td>
+            <td>
+                <a href="https://www.youtube.com/watch?v=vbhAsx5bLNY&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV&index=3" target="_blank">YouTube</a>
+                <a href="https://www.bilibili.com/video/BV1yi9NYwEWu/?spm_id_from=333.1387.upload.video_card.click&vd_source=64062e53bf71dbe0f1aa550dae4ddf79" target="_blank">Bilibili</a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
 
 ## Tutorial Organizers
 
